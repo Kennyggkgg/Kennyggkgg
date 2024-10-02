@@ -1,33 +1,33 @@
 # Core AI and Machine Learning Libraries
 transformers
-tensorflow==2.6.0
-scikit-learn==0.24.2
-numpy==1.19.5
+tensorflow
+scikit-learn
+numpy
 
 # For handling speech recognition and text-to-speech
 SpeechRecognition
 pyttsx3
 # For handling visual recognition and camera monitoring
 opencv-python
-dlib==19.22.1
-keras==2.6.0
-librosa==0.8.1
-Pytorch
+dlib
+keras
+librosa
+Pytotch
 # For Gmail API authentication and email handling
-google-api-python-client==2.26.1
-google-auth==1.35.0
-google-auth-oauthlib==0.4.6
-google-auth-httplib2==0.1.0
+google-api-python-client
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
 
 # For handling JSON, HTTP requests, and API calls
-requests==2.26.0
-pytz==2021.1
+requests
+pytz
 
 # SQLite for knowledge graph and database handling
-sqlite==3.36.0
+sqlite
 
 # Logging and base Python utilities
-logging==0.5.1.2
+logging
 
 # Miscellaneous dependencies for system tasks, alerts, etc.
 smtplib
@@ -39,5 +39,5 @@ json
 time
 
 # New dependencies for reinforcement learning agent enhancements
-matplotlib==3.4.2  # For plotting learning curves and rewards
-seaborn==0.11.2    # For better visualizations
+matplotlib # For plotting learning curves and rewards
+seaborn # For better visualizations
