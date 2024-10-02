@@ -12,7 +12,7 @@ opencv-python
 dlib
 keras
 librosa
-Pytotch
+Pytorch
 # For Gmail API authentication and email handling
 google-api-python-client
 google-auth
