@@ -23,9 +23,6 @@ google-auth-httplib2
 requests
 pytz
 
-# SQLite for knowledge graph and database handling
-sqlite
-
 # Logging and base Python utilities
 logging
 
